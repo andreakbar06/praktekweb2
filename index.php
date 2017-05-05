@@ -1,3 +1,5 @@
 <?php 
-echo "Ahlan wa Sahlan";
+include 'view/depanUI.php';
+$ut = new depanUI();
+$ut->tampilkan_halaman();
  ?>
