@@ -1,3 +1,14 @@
+ <!-- Pager -->
+                <ul class="pager">
+                    <li class="previous">
+                        <a href="#">&larr; Older</a>
+                    </li>
+                    <li class="next">
+                        <a href="#">Newer &rarr;</a>
+                    </li>
+                </ul>
+
+            </div>
  <!-- Blog Sidebar Widgets Column -->
             <div class="col-md-4">
 
